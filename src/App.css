@@ -3,15 +3,26 @@
   border-bottom: 2px solid white;
 }
 
+
+
 .logo {
   height: 6em;
   padding: 1.5em;
   will-change: filter;
   transition: filter 300ms;
-
   position: absolute;
+
+  
   
 }
+
+@media(max-width: 500px) {
+  .logo.react{
+    margin-left: 3.5rem!important;
+    
+  }
+}
+
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
   
