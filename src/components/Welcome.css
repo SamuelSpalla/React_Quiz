@@ -17,5 +17,13 @@
 #welcome img{
     margin-top: 2rem;
     height: 100%;
-    max-height: 30rem;
+    max-height: 26rem;
 }
+
+footer{
+    text-align: center;
+    margin-top: 6rem;
+    border-top: 1px solid white;
+    padding-top: 1rem;
+  }
+  
