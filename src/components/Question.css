@@ -1,0 +1,19 @@
+#question{
+    max-width: 50rem;
+    background-color: rgb(4, 4, 145);
+    border-radius: 1rem;
+    padding: 2rem;
+}
+
+#question h2, #question p{
+    margin-bottom: 2rem;
+}
+
+#question p{
+    margin-bottom: 1rem;
+}
+
+#question button{
+    margin-top: 2rem;
+    border: 2px white solid;
+}

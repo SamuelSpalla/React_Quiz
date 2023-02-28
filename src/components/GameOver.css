@@ -1,0 +1,22 @@
+#gameover{
+    max-width: 50rem;
+    display: flex;
+    flex-direction: column;
+}
+
+#gameover h2, #gameover p{
+    margin-bottom: 1.8rem;
+}
+
+#gameover p{
+    color: rgb(0, 68, 255);
+}
+
+#gameover button{
+    margin-top: 2rem;
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    justify-content: center;
+}
+

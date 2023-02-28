@@ -1,0 +1,29 @@
+.option{
+    background-color: rgb(0, 0, 255);
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: 0.2s;
+}
+
+.option:hover{
+    opacity: 1;
+}
+
+#options-container .option p{
+    margin-bottom: 0;
+}
+
+.correto{
+    background-color: green;
+    font-weight: bold;
+    opacity: 1;
+}
+
+
+.errado{
+    background-color: rgb(0, 162, 255);
+    opacity: 0.4;
+}
