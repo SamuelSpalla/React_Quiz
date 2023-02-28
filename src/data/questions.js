@@ -1,6 +1,6 @@
 const data = [
     {
-      question: "Quais dessas cidades ficam no norte",
+      question: "Quais dessas cidades ficam no norte?",
       options: [
         "Pyke",
         "Porto Real",
@@ -16,8 +16,8 @@ const data = [
     },
     {
       question: "Qual foi o primeiro lobo gigante, pertencente aos Starks, a morrer?",
-      options: ["Lady(Sansa)", "Grey Wind(Robb)", "Ghost(Jon)", "Nymeria(Arya)"],
-      answer: "Lady(Sansa)",
+      options: ["Lady (Sansa)", "Grey Wind (Robb)", "Ghost (Jon)", "Nymeria (Arya)"],
+      answer: "Lady (Sansa)",
     },
     {
       question: "Como é o nome da espada da Arya?",

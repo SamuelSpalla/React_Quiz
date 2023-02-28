@@ -26,7 +26,7 @@ function App() {
           <img src="/vite.svg" className="logo" alt="Vite logo" />
           <img src={reactLogo} className="logo react" alt="React logo" />
         </div>
-        <h1>Quiz de Programação</h1>
+        <h1>Quiz</h1>
       </div>
 
       <div className="App">
