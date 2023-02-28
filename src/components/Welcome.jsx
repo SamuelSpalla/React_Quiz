@@ -18,7 +18,7 @@ const Welcome = () => {
         <div>
             <img src={imgQuiz} alt="Iniciar" />
         </div>
-        <footer>© 2022 Samuel Spalla da Silva</footer>
+        <footer>© 2023 Samuel Spalla da Silva</footer>
     </div>
   )
 }

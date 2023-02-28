@@ -1,34 +1,34 @@
 const data = [
     {
-      question: "O que é Vanilla JavaScript?",
+      question: "Quais dessas cidades ficam no norte",
       options: [
-        "JavaScript puro",
-        "Uma biblioteca JavaScript",
-        "Um framework JavaScript",
-        "Um compilador de JavaScript",
+        "Pyke",
+        "Porto Real",
+        "Winterfell",
+        "Jardim de cima",
       ],
-      answer: "JavaScript puro",
+      answer: "Winterfell",
     },
     {
-      question: "Com qual instrução declaramos uma constante em JavaScript?",
-      options: ["const", "let", "var", "define"],
-      answer: "const",
+      question: "De qual casa o Tyrion pertence?",
+      options: ["Stark", "Targaryen", "Baratheon", "Lannister"],
+      answer: "Lannister",
     },
     {
-      question: "Qual dos tipos de dado a seguir não existe em JavaScript?",
-      options: ["string", "number", "boolean", "float"],
-      answer: "float",
+      question: "Qual foi o primeiro lobo gigante, pertencente aos Starks, a morrer?",
+      options: ["Lady(Sansa)", "Grey Wind(Robb)", "Ghost(Jon)", "Nymeria(Arya)"],
+      answer: "Lady(Sansa)",
     },
     {
-      question: "Qual dos métodos a seguir seleciona um elemento?",
-      options: ["querySelector", "parseInt", "sort", "reduce"],
-      answer: "querySelector",
+      question: "Como é o nome da espada da Arya?",
+      options: ["Agulha", "Cumpridora de Promessas", "Gelo", "Não tinha nome"],
+      answer: "Agulha",
     },
     {
       question:
-        "Qual destas propriedades da a quantidade de elementos de um array?",
-      options: ["qty", "length", "items", "index"],
-      answer: "length",
+        "Qual das cidades livres foi fundada por escravos fugitivos?",
+      options: ["Pentos", "Braavos", "Volantis", "Myr"],
+      answer: "Braavos",
     },
   ];
   
